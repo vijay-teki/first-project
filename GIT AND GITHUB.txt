@@ -1,0 +1,23 @@
+GIT AND GITHUB:
+`
+git is a version controling system of a project  that is being developed by  working on out simultaneously
+  
+WHAT IS GITHUB?
+ IT is a website with is used to upload ur project and control various versions of a project using git
+
+web page-  it is a electronic doc in html with the help of www
+ 
+to create agit hub account
+
+*repository is used to hold the complete information of a single project
+*repo is consists of mutile folders
+*it can also hold mutiple types of files
+*github not only holds the project in it
+*it also allows us to open and edit the files and save it in the same repo
+github is also allows our project from the repository to link with domain
+
+https://github.com/vijay-teki/first-project.git
+version controlling system maintains the versions in hierarchy as master--branch
+main--branch
+we can upload the changes done into specific barnch or to main branch
+we use commit to update the changes or upload the
