@@ -4,10 +4,11 @@ git is a version controling system of a project  that is being developed by  wor
   
 WHAT IS GITHUB?
  IT is a website with is used to upload ur project and control various versions of a project using git
+website- a group of web pages
 
 web page-  it is a electronic doc in html with the help of www
  
-to create agit hub account
+to create a github account
 
 *repository is used to hold the complete information of a single project
 *repo is consists of mutile folders
