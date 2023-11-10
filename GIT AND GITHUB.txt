@@ -8,7 +8,7 @@ website- a group of web pages
 
 web page-  it is a electronic doc in html with the help of www
  
-to create a github account
+yughggkjgykutfgi
 
 *repository is used to hold the complete information of a single project
 *repo is consists of mutile folders
